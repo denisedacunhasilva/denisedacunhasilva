@@ -91,7 +91,6 @@ MARÇO DE 1999 - NOVEMBRO DE 2002
 - METABASE: Vá do ZERO ao Avançado! Completo 2024 - MAIO DE 2024
 - Comandos DML: manipulação de dados com MySQL - NOVEMBRO DE 2023
 - Consultas SQL: avançando no SQL com My SQL - NOVEMBRO DE 2023
-- Consultas SQL: avançando no SQL com My SQL - NOVEMBRO DE 2023
 - Business Intelligence: Trabalhando com Data Warehouse - ABRIL DE 2023
 
 ---
